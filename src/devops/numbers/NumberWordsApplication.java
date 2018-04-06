@@ -8,11 +8,9 @@ import java.util.Scanner;
 
 public final class NumberWordsApplication {
 	//@SuppressWarnings("unused")
-	private NumberWords numberWords ;
 	private static BufferedReader reader ;
 	
 	public NumberWordsApplication() {
-		numberWords = new NumberWords() ;
 		reader = new BufferedReader( new InputStreamReader( System.in ) ) ;
 	}
 	
