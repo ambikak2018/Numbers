@@ -1,5 +1,9 @@
 package devops.numbers;
 
+/*
+ * Number to words project
+ */
+
 public class NumbersToWords {
   private static final String[] NUMBERS_UP_TO_19 = { "zero", "one", "two",
       "three", "four", "five", "six", "seven", "eight", "nine", "ten",
