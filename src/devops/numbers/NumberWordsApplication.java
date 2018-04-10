@@ -3,8 +3,6 @@ package devops.numbers;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
-import java.util.Scanner;
 
 public final class NumberWordsApplication {
 	//@SuppressWarnings("unused")
